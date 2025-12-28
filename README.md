@@ -23,6 +23,12 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 <!-- Badge row 3 - detailed status -->
 
+## Overview
+
+This repository contains official brand assets such as logos, colors, and visual guidelines.
+The assets here are intended to support consistent branding across products, documentation, and community materials. Some files may evolve over time as the brand grows or is refined.
+If something is unclear or missing, feel free to open an issue or start a discussion.
+
 [![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/base-org/brand-kit)](https://github.com/base-org/brand-kit/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/base-org/brand-kit.svg)](https://github.com/base-org/brand-kit/issues)
 
