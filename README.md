@@ -52,3 +52,11 @@ Located in [/fonts](fonts/).
 | ![SymbolBlue](logo/TheSquare/Digital/Base_square_blue.svg)   | ![WordmarkBlue](logo/Basemark/Digital/Base_basemark_blue.svg)   |
 | ![SymbolWhite](logo/TheSquare/Digital/Base_square_white.svg)   | ![WordmarkWhite](logo/Basemark/Digital/Base_basemark_white.svg)   |
 | ![SymbolBlack](logo/TheSquare/Digital/Base_square_black.svg)   | ![WordmarkBlack](logo/Basemark/Digital/Base_basemark_black.svg)   |
+
+## Usage notes
+
+- Prefer original source files when resizing or exporting assets
+- Avoid modifying logo proportions, colors, or adding effects
+- Use assets consistently across platforms when possible
+
+When in doubt about usage, it’s always okay to ask or open an issue.
